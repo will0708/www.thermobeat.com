@@ -1,8 +1,8 @@
-###ThermoBeat Repository
+# ThermoBeat Repository
 
-###
+### 
 
-#Credit for Current Website
+### Credit for Current Website
 
 Tessellate by HTML5 UP
 html5up.net | @ajlkn
