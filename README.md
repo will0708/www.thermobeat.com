@@ -1,4 +1,4 @@
-# ThermoBeat Repository
+# ThermoBeat Website Repository
 
 ### 
 
